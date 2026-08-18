@@ -4,11 +4,11 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>TikTok LIVE für kleine Creator</title>
+  <title>Trau dich LIVE zu gehen</title>
 
   <meta
     name="description"
-    content="Du brauchst nicht Tausende Follower, um mit TikTok LIVE anzufangen. Starte klein, sammle Erfahrung und probiere LIVE selbst aus."
+    content="Du musst nicht perfekt sein, um LIVE zu gehen. Fang einfach mit deinem Smartphone an und sammle deine ersten Erfahrungen."
   >
 
   <style>
@@ -57,46 +57,50 @@
 
   <main class="container">
 
-    <h1>TikTok LIVE für kleine Creator</h1>
+    <h1>Trau dich LIVE zu gehen</h1>
 
     <p class="highlight">
-      Du glaubst, du brauchst Tausende Follower,
-      um mit TikTok LIVE anzufangen?
+      Du willst LIVE gehen, aber traust dich nicht?
     </p>
 
     <p>
-      Nicht unbedingt.
+      Viele denken, sie müssen vor der Kamera perfekt sein
+      oder brauchen teures Equipment.
     </p>
 
     <p>
-      Auch kleine Creator können LIVE nutzen,
-      um direkt mit ihrer Community zu sprechen,
-      Vertrauen aufzubauen und Erfahrungen zu sammeln.
+      Aber genau das hält viele davon ab,
+      überhaupt anzufangen.
     </p>
 
     <p>
-      Du brauchst kein riesiges Publikum
-      und musst auch kein Top-Influencer sein.
+      Du kannst einfach mit deinem Smartphone starten,
+      mit den Leuten sprechen
+      und deine ersten Erfahrungen sammeln.
     </p>
 
     <p>
-      Wichtig ist, dass du anfängst,
-      regelmäßig mit deinen Zuschauern sprichst
-      und deinen eigenen Stil findest.
-    </p>
-
-    <p>
-      Mit der Zeit kannst du lernen,
-      welche LIVE-Inhalte bei deiner Community gut ankommen
-      und welche Möglichkeiten TikTok LIVE für Creator bietet.
+      Du musst nicht perfekt sprechen.
+      Du musst nicht alles planen.
+      Und du musst kein Profi sein.
     </p>
 
     <p class="highlight">
-      Also: Warum nicht einfach ausprobieren?
+      Du musst nur anfangen.
+    </p>
+
+    <p>
+      Sei einfach du selbst,
+      rede mit deinen Zuschauern
+      und finde mit der Zeit deinen eigenen Stil.
+    </p>
+
+    <p class="highlight">
+      Also: Traust du dich?
     </p>
 
     <div class="cta">
-      Tippe auf „Go LIVE“ und starte deinen ersten LIVE-Versuch.
+      Tippe auf „Go LIVE“ und probier es selbst aus.
     </div>
 
   </main>
